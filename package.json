@@ -1,6 +1,6 @@
 {
   "name": "react-native-xprinter",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "This is an android xprinter driver.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mybigday/react-native-xprinter"
+    "url": "https://github.com/AhmedPro2013/react-native-xprinter"
   },
   "keywords": [
     "react",
